@@ -274,11 +274,11 @@
     <Reference Include="UnityEngine.XRModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.14f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
     </Reference>
-    <Reference Include="SmartPrinter">
-      <HintPath>C:/Users/f8704/OneDrive/Documents/Github/Print proyect/Assets/PrintPlugin/SmartPrinter.dll</HintPath>
-    </Reference>
     <Reference Include="itextsharp">
       <HintPath>C:/Users/f8704/OneDrive/Documents/Github/Print proyect/Assets/Plugins/itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartPrinter">
+      <HintPath>C:/Users/f8704/OneDrive/Documents/Github/Print proyect/Assets/PrintPlugin/SmartPrinter.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.14f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
